@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SideScrollerDemo.data.unityweb",
+"asmCodeUrl": "SideScrollerDemo.asm.code.unityweb",
+"asmMemoryUrl": "SideScrollerDemo.asm.memory.unityweb",
+"asmFrameworkUrl": "SideScrollerDemo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
